@@ -90,4 +90,4 @@ If a user finds a suitable match, they can contact the other user via email by c
 
 ---
 
-© 2022 Code Unleash: Mikayla Vosseller, Kevin Wang, Meng Xing, Qiling Deng
+© 2022 Code Unleash: [Mikayla Vosseller](https://github.com/vossellerm), [Kevin Wang](https://github.com/ohdeer31), [Meng Xing](https://github.com/XingMeng11), [Qiling Deng](https://github.com/qd9069)
